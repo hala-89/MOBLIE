@@ -1,0 +1,50 @@
+
+body{
+ background-color: lightblue;
+ margin: 0;
+ text-align: center;
+}
+
+header{
+background-color: darkcyan;
+height:90px ;
+}
+h1{
+  float: center;
+}
+nav{
+    float: right;
+  
+  display: inline-block;
+
+}
+ul{ 
+   margin-left: 30px;
+   margin-right:20px;  
+}
+li{
+  display: inline-block;
+}
+li a{
+  text-decoration: none;
+   padding:10px ;
+}
+
+#one{
+  width: 250px;
+  border: 15px solid green;
+  padding: 50px;
+ 
+}
+#two{
+  width: 250px;
+  border: 15px solid green;
+  padding: 50px;
+
+}
+#three{
+  width: 250px;
+  border: 15px solid green;
+  padding: 50px;
+
+}
