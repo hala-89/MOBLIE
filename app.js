@@ -21,7 +21,7 @@ for (var m= 1; m<= numofpic; m++)
   }	
 }
   else if(x == "iphon"){
-    if(x ==  "iphon"){var numofpic = prompt (" How many samsung do you want to see at our site ?")}
+    if(x ==  "iphon"){var numofpic = prompt (" How many iphon do you want to see at our site ?")}
 
 for (var m= 1; m<= numofpic; m++){
   document.write("<p>"+"great thing you love  iphon becuase is smart phone to use" +"</p>" +'<div>'+'<h3>'+'iphon'+'</h3>'+"<img src='https://media.voltron.alhurra.com/Drupal/01live-106/2020-09/960x0%20%281%29.jpg'</div>")
@@ -29,7 +29,7 @@ for (var m= 1; m<= numofpic; m++){
   }
 
    else if( x =="HUAWEI"){
-     if(x ==  "HUAWEI"){var numofpic = prompt (" How many samsung do you want to see at our site ?")}
+     if(x ==  "HUAWEI"){var numofpic = prompt (" How many HUAWEI do you want to see at our site ?")}
 
 for (var m= 1; m<= numofpic; m++)
 {
