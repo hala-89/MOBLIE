@@ -52,7 +52,7 @@ function rating(num){
         for (var i =0 ; i< num; i++){
 
       
-    document.write("<img src= https://static4.depositphotos.com/1026550/376/i/950/depositphotos_3763236-stock-photo-gold-star.jpg")
+    document.write("<img src= 'https://static4.depositphotos.com/1026550/376/i/950/depositphotos_3763236-stock-photo-gold-star.jpg'>")
         
 
 
